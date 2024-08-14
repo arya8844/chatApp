@@ -1,6 +1,14 @@
 # chatapp
 
-A new Flutter project.
+It is a simple chat messenger app built using Flutter and Firebase.
+It features both light and dark modes for a streamlined messaging
+experience.
+
+## Features
+ _Real-time Messaging : Send and receive messages in real-time.
+ _Light & Dark Mode : Switch between light and dark themes.
+ _User Authentication : Sign up and log in using Firebase Authentication.
+ _Responsive Design : Optimized for both mobile and tablet devices.
 
 ## Getting Started
 
